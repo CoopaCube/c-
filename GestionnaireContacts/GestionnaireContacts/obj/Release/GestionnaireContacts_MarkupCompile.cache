@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\jub\cSharp\GestionnaireContacts\GestionnaireContacts\obj\Debug\
+C:\jub\cSharp\GestionnaireContacts\GestionnaireContacts\obj\Release\
 GestionnaireContacts
 none
 false
-DEBUG;TRACE
+TRACE
 C:\jub\cSharp\GestionnaireContacts\GestionnaireContacts\App.xaml
 3-104197116
 
