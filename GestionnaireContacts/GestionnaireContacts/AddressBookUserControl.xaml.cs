@@ -17,6 +17,7 @@ namespace GestionnaireContacts
 {
     /// <summary>
     /// Logique d'interaction pour AddressBookUserControl.xaml
+    /// test
     /// </summary>
     public partial class AddressBookUserControl : UserControl
     {
